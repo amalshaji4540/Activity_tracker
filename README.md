@@ -9,7 +9,7 @@ This is a simple python command line application I had build to track the activi
 ./main.py
 ```
 
-1. Enter inputs according to instructions shown on the screen
+3. Enter inputs according to instructions shown on the screen
 
 ## Features
 
