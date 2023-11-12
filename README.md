@@ -14,4 +14,5 @@ This is a simple python command line application I had build to track the activi
 ## Features
 
 1. You need to enter the activity only.
-2. The program will find date, starting time, ending time and duration of the activity that is tracking. Also enter this data to csv file.
+2. The program will update date,activity_name,starting time, ending time and duration of the activity that is tracking to a csv file.
+
