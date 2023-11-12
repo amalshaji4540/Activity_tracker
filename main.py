@@ -7,7 +7,7 @@ from datetime import datetime
 csvfile = open('tracker.csv', 'a',newline='\n')
 c = csv.writer(csvfile)
 data=[]
-start=input("You are going to enter an activity, Can we continue, if yes press [Y]")
+start=input("You are going to enter an activity, Do you want to continue ?[Y/n]")
 if (start=="Y" or start=="y"):
     today_date=date.today()
     data.append(today_date)
